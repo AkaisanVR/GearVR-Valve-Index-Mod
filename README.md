@@ -1,4 +1,5 @@
 ![Alt text](https://media.discordapp.net/attachments/1348992939887562824/1350179001511182356/IMG_5426.jpg?ex=67ecddef&is=67eb8c6f&hm=a27cabf0b59ce594bf35bbc49a4d367dba7e07335a59087239f934ad26094961&=&width=694&height=926)
+
 Hello there! this a guild how to assemble and setup the GearVR Valve Index Mod. 
 
 	1. Heat up the displays to soften the glue holding in the lenses. Preferably a white screen and have the headset at 160% display brightness.
