@@ -14,3 +14,30 @@ Hello there! this a guild how to assemble and setup the GearVR Valve Index Mod.
 
   I am not responcible for the loss of waranty status and irreversable damage
 
+  Results:
+ Fov: H:110 V:84
+ Clarity is edge to edge, everything is fully in focus even in the corners of the screen
+ 
+ The sweetspot is the whole lens but I commened spending sometime getting it perfectly     centred with IPD to get less chromatic aberrations 
+
+ (Destortion Correction for now is not set up, I am planning on working on it in the future)
+
+ The new GearVR lens system causes the displays to be a hint brighter than the stock lenses due to the lack of the 2nd lens potentially loosing light. 
+
+ Pros: 
+
+ 
+	Edge to edge clearity 
+	Improved Colours
+	No Glare
+	Screen Door Effect is less noticeable 
+
+ Cons: 
+
+
+	There isnt a destortion profile (for now)
+ 	Possible damge to lenses or lens tube when removing the old lenses 
+ 	Dust contamination in the eyetube
+ 	Loss of warranty
+
+
