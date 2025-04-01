@@ -6,8 +6,11 @@ Hello there! this a guild how to assemble and setup the GearVR Valve Index Mod.
 
 	3. Remove the 2nd focus lens with the same process
 
- 	4. Prepare the eyetube by making ure no dust or 3d print crumbs are not in the eyetube
+ 	4. Prepare the eyetube by making sure no dust or 3d print crumbs are not in the eyetube
 
 	5. Insert the GearVR Lens into the lens carrier
 
  	6. Insert the GearVR Lens plus carrier into the eyeube
+
+  I am not responcible for the loss of waranty status and irreversable damage
+
