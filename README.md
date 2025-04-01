@@ -18,7 +18,7 @@ Hello there! this a guild how to assemble and setup the GearVR Valve Index Mod.
 
 	Fov: H:110 V:84
  	Clarity is edge to edge, everything is fully in focus even in the corners of the screen
- 	The sweetspot is the whole lens but I commened spending sometime getting it perfectly centred with IPD to get less chromatic aberrations 
+ 	The sweetspot is the whole lens but I commened spending some time getting it perfectly centred with IPD to get less chromatic aberrations 
 
  (Destortion Correction for now is not set up, I am planning on working on it in the future)
 
