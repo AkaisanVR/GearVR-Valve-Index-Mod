@@ -17,8 +17,8 @@ Hello there! this a guild how to assemble and setup the GearVR Valve Index Mod.
   Results:
 
 	Fov: H:110 V:84
- 	Clarity is edge to edge, everything is fully in focus even in the corners of the screen
- 	The sweetspot is the whole lens but I commened spending some time getting it perfectly centred with IPD to get less chromatic aberrations 
+ 	1. Clarity is edge to edge, everything is fully in focus even in the corners of the screen
+ 	2. The sweetspot is the whole lens but I commened spending some time getting it perfectly centred with IPD to get less chromatic aberrations 
 
  (Destortion Correction for now is not set up, I am planning on working on it in the future)
 
@@ -27,17 +27,17 @@ Hello there! this a guild how to assemble and setup the GearVR Valve Index Mod.
  Pros: 
 
  
-	Edge to edge clearity 
-	Improved Colours
-	No Glare
-	Screen Door Effect is less noticeable 
+	1. Edge to edge clearity 
+	2. Improved Colours
+	3. No Glare
+	4. Screen Door Effect is less noticeable 
 
  Cons: 
 
 
-	There isnt a destortion profile (for now)
- 	Possible damge to lenses or lens tube when removing the old lenses 
- 	Dust contamination in the eyetube
- 	Loss of warranty
+	1. There isnt a destortion profile (for now)
+ 	2. Possible damge to lenses or lens tube when removing the old lenses 
+ 	3. Dust contamination in the eyetube
+ 	4. Loss of warranty
 
 
