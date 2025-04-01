@@ -41,7 +41,9 @@ Hello there! this a guild how to assemble and setup the GearVR Valve Index Mod.
  	3. Dust contamination in the eyetube
  	4. Loss of warranty
 
-Example of the quality of the GearVR lenses
+
+
 <img src="https://media.discordapp.net/attachments/1348992939887562824/1350179001511182356/IMG_5426.jpg?ex=67ecddef&is=67eb8c6f&hm=a27cabf0b59ce594bf35bbc49a4d367dba7e07335a59087239f934ad26094961&=&width=694&height=926" alt="Example Scene" width="300"/>
 
+Example of the quality of the GearVR lenses
 
