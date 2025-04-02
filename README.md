@@ -37,7 +37,7 @@ Hello there! this a guild how to assemble and setup the GearVR Valve Index Mod.
 
 
 	1. There isnt a destortion profile (for now)
- 	2. Possible damge to lenses or lens tube when removing the old lenses 
+ 	2. Possible damage to lenses or lens tube when removing the old lenses 
  	3. Dust contamination in the eyetube
  	4. Loss of warranty
 
